@@ -1,0 +1,12 @@
+TOPICs
+
+1) Installation of Express
+2) Router
+3) get and post requests
+4) Middleware
+    Code which runs between getting a request and sending response
+    Middleware Examples:
+        1) Logger middleware to log details of every request
+        2) Authentication check middleware for protected routes 
+        3) Middleware to parse JSON data from requests
+        4) Return 404 pages
